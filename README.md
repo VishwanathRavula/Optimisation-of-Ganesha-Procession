@@ -13,5 +13,5 @@ cluster of Ganeshas to it’s Lake. and have also shown the results
 as implemented on google maps.
 
 
-For further more details look into folowing
-https://github.com/VishwanathRavula/Optimisation-of-Ganesha-Procession/blob/master/Ganesha_Procession_Algo%20(Report).pdf
+
+
